@@ -1,7 +1,7 @@
 # First In First Out (FIFO) Buffer 
  Asynchronous FIFO implementation
 
-![](https://github.com/seetalpot/Asynchronous-FIFO/blob/main/FIFO-image.png)
+![](https://github.com/seetalpot/Asynchronous-FIFO/blob/main/FIFO-image.jpg)
  
  # Simulation
  Icarus Verilog (iVerilog) was used for simulation.  
