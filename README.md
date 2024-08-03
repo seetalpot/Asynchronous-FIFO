@@ -33,6 +33,9 @@ iverilog -o a test_memfifo_tb.v test_memfifo.v wfull.v rempty.v sync_r2w.v sync_
 ![](https://github.com/MANISHBMK10/FIFO/blob/main/verilog.png)
 
 ### GTKWave Waveform
+
+fifo3.vcd
+
 ![](https://github.com/MANISHBMK10/FIFO/blob/main/gtk_fifofinal.png)
 
 
