@@ -28,9 +28,11 @@
 # Simulation Results
 ## Asynchronous FIFO testbench results -<br/>
 iverilog -o a test_memfifo_tb.v test_memfifo.v wfull.v rempty.v sync_r2w.v sync_w2r.v top_fifo.v fifo_mem.v<br/>
-### C:\iverilog\bin>vvp a<br/>
+
+### Output on Console
 ![](https://github.com/MANISHBMK10/FIFO/blob/main/verilog.png)
-### GTKWave Results -
+
+### GTKWave Waveform
 ![](https://github.com/MANISHBMK10/FIFO/blob/main/gtk_fifofinal.png)
 
 
