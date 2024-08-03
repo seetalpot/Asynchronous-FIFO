@@ -26,7 +26,7 @@
 
  
 # Simulation Results
-## Asynchronous FIFO testbench results -<br/>
+
 iverilog -o a test_memfifo_tb.v test_memfifo.v wfull.v rempty.v sync_r2w.v sync_w2r.v top_fifo.v fifo_mem.v<br/>
 
 ### Output on Console
