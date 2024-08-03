@@ -27,9 +27,12 @@
  
 # Simulation Results
 
-iverilog -o a test_memfifo_tb.v test_memfifo.v wfull.v rempty.v sync_r2w.v sync_w2r.v top_fifo.v fifo_mem.v<br/>
+iverilog -o test_memfifo_tb test_memfifo_tb.v test_memfifo.v wfull.v rempty.v sync_r2w.v sync_w2r.v top_fifo.v fifo_mem.v<br/>
 
 ### Output on Console
+
+vvp test_memfifo_tb
+
 ![](https://github.com/MANISHBMK10/FIFO/blob/main/verilog.png)
 
 ### GTKWave Waveform
