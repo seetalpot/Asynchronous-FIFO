@@ -43,4 +43,7 @@ gtkwave fifo3.vcd
 
 
 # References
-[http://www.sunburst-design.com/papers/CummingsSNUG2002SJ_FIFO1.pdf](url)
+
+1. [http://www.sunburst-design.com/papers/CummingsSNUG2002SJ_FIFO1.pdf](url)
+
+2. S. R. Hasan, S. F. Mossa, C. Perez and F. Awwad, "Hardware Trojans in asynchronous FIFO-buffers: From clock domain crossing perspective," 2015 IEEE 58th International Midwest Symposium on Circuits and Systems (MWSCAS), Fort Collins, CO, USA, 2015, pp. 1-4.
